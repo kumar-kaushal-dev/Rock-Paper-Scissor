@@ -1,6 +1,6 @@
 # 🎮 Rock Paper Scissors - Pro Edition
 
-A modern, interactive Rock Paper Scissors game built with vanilla HTML, CSS, and Vanilla JavaScript. Features stunning visual design, persistent scoring, and engaging animations.
+A modern, interactive Rock Paper Scissors game built with HTML, CSS, and Vanilla JavaScript. Features stunning visual design, persistent scoring, and engaging animations.
 
 ## ✨ Features
 
