@@ -154,10 +154,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Modern design trends from contemporary web applications
 - CSS animations inspired by micro-interaction design principles
 
-## 🔗 Live Demo
-
-[Play the game here] https://github.com/kumar-kaushal-dev/Rock-Paper-Scissor.git
-
 ---
 
 **Made with ❤️ and lots of ☕**
